@@ -6,10 +6,9 @@
 <img src="https://github.com/seonghorang/seonghorang/blob/main/img/Third_Project2.png" width="500" height="300" style="float: right;">
 </p>
 
-<hr>
 
-**부산정보산업진흥원/한국품질재단**  
-**기간:** 2023.08 ~ 2023.08 (60시간/5인)
+### **부산정보산업진흥원/한국품질재단**  
+### **기간:** 2023.08 ~ 2023.08 (60시간/5인)
 
 ## 목표
 안구의 움직임과 눈의 형태를 분석해 사용자의 졸음 혹은 집중도 예측을 통해 사고예방 및 업무 효율성 향상
