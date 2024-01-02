@@ -35,7 +35,7 @@
 - **협업 도구:** Notion, Google Drive
 - **전처리:** Python(Pandas, Numpy, OpenCV), Excel
 - **시각화:** Python(Plotly, Matplotlib, seaborn)
-- **머신러닝 & 딥러닝:** TensorFlow, Scikit-learn,OpenCV, Dlib
+- **머신러닝 & 딥러닝:** TensorFlow, Scikit-learn, OpenCV, Dlib
 
 ## 고찰
 데이터 용량이 커서 모델 훈련 시간이 길었지만 협업을 통해 데이터를 분배하고 프로젝트 기간을 맞출 수 있었음
